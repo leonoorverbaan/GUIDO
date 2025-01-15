@@ -1,6 +1,5 @@
 
 # GUIDO: Guiding User-friendly Independent Driving Object
-=======
 # Biomechanotronics GUIDO
 
 This project contains 3 designs for a path-planning Robot Guidance Dog. For Design 1 and Design 2, there are simulations that demonstrate how path planning is implemented in the GUIDO prototypes.
